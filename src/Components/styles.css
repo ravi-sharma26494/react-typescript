@@ -58,6 +58,9 @@
   border: none;
   font-size: 20px;
 }
+.todos__single--text:focus {
+  outline: none !important;
+}
 .icon {
   margin-left: 10px;
   font-size: 25px;
@@ -80,3 +83,14 @@
     width: 100%;
   }
 }
+/*
+.card {
+  .heading {
+    font-size:2rem;
+
+    h1{
+      color: #fff !important;
+    }
+  }
+}
+*/
